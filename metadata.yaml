@@ -1,0 +1,32 @@
+_repo: A-Dreadful-Temptationor-A-Young-Wife-s-Ambition_43911
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43911-h/images/coverlarge.jpg
+creator:
+  author:
+    agent_name: Miller, Alex. McVeigh, Mrs.
+    aliases:
+    - Miller, Mrs. Alex McVeigh
+    - Point, Mittie Frances Clarke
+    - Miller, Alexander McVeigh, Mrs.
+    - Miller, Mrs. Alex. McVeigh
+    birthdate: 1850
+    deathdate: 1937
+    gutenberg_agent_id: '35103'
+    url: http://www.gutenberg.org/2009/agents/35103
+description: 'Contains also: Wild Margaret, by Geraldine Fleming.'
+gutenberg_issued: '2013-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43911'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Revenge -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+title: A Dreadful Temptation; or, A Young Wife's Ambition
+url: http://www.gutenberg.org/ebooks/43911
